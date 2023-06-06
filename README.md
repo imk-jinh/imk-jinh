@@ -7,8 +7,10 @@
   </br>
 
 <h2> About Me! 👀 </h2>
-🇰🇷 Korea Suwon </br>
+<h3> 😎 1998.01.24 </h3> 
+<img height="50" src="https://github.com/jinhyungkim980/jinhyungkim980/assets/123533660/d4b9338f-6c74-44df-84bb-610865cfffcc" />  Korea Suwon </br>
 <img height="50" src="https://github.com/jinhyungkim980/jinhyungkim980/assets/123533660/17c1bf69-54a9-4b6b-870b-e80171dc9317" />  국립한경대학교 2019.03~2024.12
+
 
 </br></br>
 
