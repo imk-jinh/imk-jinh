@@ -1,14 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요!!</h1>
 
 <p>저의 GitHub에 오신 것을 환영합니다!
-<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></p>
 <!-- <img src="https://img.shields.io/github/followers/jinhyungkim980?style=social" alt-text="GitHub Jinhyung Kim" height="20" /> -->
-</p>
-<b>저는 컴퓨터공학과에 재학 중이며, 아직은 부족하지만 코딩 실력을 향상하고 여러가지 도구들을 능숙하게 다루는 것에 많은 흥미를 가지고 있으므로 더욱 발전하는 모습을 확인하실 수 있도록 열심히 하겠습니다!! </b>
+<b>저는 컴퓨터공학과에 재학 중이며, 아직은 부족하지만 코딩 실력을 향상하고 여러가지 도구들을 능숙하게 다루는 것에 많은 흥미를 가지고 있으므로 더욱 발전하는 모습을 확인하실 수 있도록 열심히 하겠습니다!</b>
   </br>
 
 <h2> About Me! 👀 </h2>
-한경대학교 <img height="30" 
+🇰🇷 Korea Suwon </br>
+<img height="50" src="https://github.com/jinhyungkim980/jinhyungkim980/assets/123533660/17c1bf69-54a9-4b6b-870b-e80171dc9317" />  국립한경대학교 2019.03~2024.12
 
 </br></br>
 
