@@ -15,15 +15,20 @@
 </br></br>
 
 <h2> Styuding Language And Tools 💻💻 </h2>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">javascipt</code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">Vue</code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">React</code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">Node.js</code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">C++</code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">Python</code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">MySQL</code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">Git</code>
+<p>
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vuejs-13aa52?style=flat-square&logo=Vue.js&logoColor=white" /> 
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-javascript-FFCA28?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Mysql" src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql&logoColor=black" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-red?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/-CSS-45b8d8?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="java" src="https://img.shields.io/badge/-Java-blueviolet?style=flat-square&logo=coffeescript&logoColor=white" />
+  </p>
 
 </br></br>
   
