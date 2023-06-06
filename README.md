@@ -3,7 +3,7 @@
 <p>저의 GitHub에 오신 것을 환영합니다!
 <a href="https://github.com/jinhyungkim980" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></p>
 <!-- <img src="https://img.shields.io/github/followers/jinhyungkim980?style=social" alt-text="GitHub Jinhyung Kim" height="20" /> -->
-<b>코딩을 좋아하며 운동을 취미로 하고 있는 컴퓨터공학과 학생입니다. 아직은 부족하지만 코딩의 고수가 되어보겠다.</b>
+<b>코딩🖥을 좋아하며 운동🏋을 취미로 하고 있는 컴퓨터공학과 학생입니다. 아직은 부족하지만 코딩의 고수가 되어보겠습니다 🔥🔥🔥🔥🔥</b>
   </br>
 
 <h2> About Me! 👀 </h2>
@@ -45,16 +45,16 @@ Others       ██████████░░░░░░░░░░░░�
 ```
 </br></br>
   
-🚧 **My project:**
+🫀 **My project:**
 <!-- TODO-IST:START -->
-🏆  개인 프로젝트: ~ing           
-🌸  협업 프로젝트: ~ing           
+👍  개인 프로젝트: ~ing           
+🤝  협업 프로젝트: ~ing           
 ✅  총 완료 프로젝트: comming soon!           
 ⏳  진행 중인 프로젝트: ~ing
 <!-- TODO-IST:END -->
 
 </br>
-<h2> Contact Me! </h2>
+<h2> Contact Me! 💌</h2>
 <a href="https://www.instagram.com/imk.h_/"><img src="https://img.shields.io/badge/Instagram-ff6964?style=plastic-square&logo=instagram&logoColor=pink"/>
 <a 
 
