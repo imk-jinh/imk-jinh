@@ -18,7 +18,7 @@
 <p>
   <img alt="java" src="https://img.shields.io/badge/-Java-blueviolet?style=flat-square&logo=coffeescript&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-javascript-FFCA28?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vuejs-13aa52?style=flat-square&logo=Vue.js&logoColor=white" /> 
+  <img alt="Next.js" src="https://img.shields.io/badge/-Nextjs-13aa52?style=flat-square&logo=Next.js&logoColor=white" /> 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
@@ -32,17 +32,17 @@
   
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />  
 <h2> 🌱🌱 Studying My Technical Proficiency </h2>  
-<!-- <p> 아직은 미완성.... </p>
+<p> 아직은 미완성.... </p>
 
   ```txt
-Vue          ██████████░░░░░░░░░░░░░░░░  30.00 %
-React        ██████████░░░░░░░░░░░░░░░░  30.00 %
-javascipt    ██████████░░░░░░░░░░░░░░░░  30.00 %
+Java         ███████████████████░░░░░░░  70.00 %
+javascipt    ███████████████████░░░░░░░  70.00 %
+MySQL        █████████████████░░░░░░░░░  60.00 %
+Next.js      ████████████░░░░░░░░░░░░░░  40.00 %
 Node.js      ██████████░░░░░░░░░░░░░░░░  30.00 %
-MySQL        ██████████░░░░░░░░░░░░░░░░  30.00 %
-Others       ██████████░░░░░░░░░░░░░░░░  30.00 %
+Others       ██████░░░░░░░░░░░░░░░░░░░░  20.00 %
 ```
-</br></br> -->
+</br></br>
   
 🫀 **My project:**
 <!-- TODO-IST:START -->
