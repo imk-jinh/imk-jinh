@@ -32,7 +32,7 @@
   
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />  
 <h2> 🌱🌱 Studying My Technical Proficiency </h2>  
-<p> 아직은 미완성.... </p>
+<p> 성장중.... </p>
 
   ```txt
 Java         ███████████████████░░░░░░░  70.00 %
