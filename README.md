@@ -62,5 +62,5 @@ Others       ██████░░░░░░░░░░░░░░░░�
 </br>
 <h2> Contact Me! 💌</h2>
 <a href="https://www.instagram.com/imk.h_/"><img src="https://img.shields.io/badge/Instagram-ff6964?style=plastic-square&logo=instagram&logoColor=pink"/>
-<a href="https://imkchannel.vercel.app/">🫀</a>
+<a href="https://imkchannel.vercel.app/"><img src="https://img.shields.io/badge/Click me!-6DB33F?style=flat&logo=click&logoColor=white"/>
 
