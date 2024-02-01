@@ -1,15 +1,19 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요!!</h1>
+## 👨🏻‍💻 Jinhyung's Profile
+<details>
+<summary><strong>🔬 Show  more about Jinhyung 🔬</strong></summary>
 
-<p>저의 GitHub에 오신 것을 환영합니다!
-<a href="https://github.com/jinhyungkim980" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></p>
-<!-- <img src="https://img.shields.io/github/followers/jinhyungkim980?style=social" alt-text="GitHub Jinhyung Kim" height="20" /> -->
-<b>코딩🖥을 좋아하며 운동🏋을 취미로 하고 있는 컴퓨터공학과 학생입니다. 아직은 부족하지만 코딩의 고수가 되어보겠습니다 🔥🔥🔥🔥🔥</b>
-  </br>
+## 🎓 Education
+- 한경국립대학교 컴퓨터공학과 (2019.03 ~ 2024.12)
 
-<h2> About Me! 👀 </h2>
-<h3> 😎 1998.01.24 </h3> 
-<img height="50" src="https://github.com/jinhyungkim980/jinhyungkim980/assets/123533660/d4b9338f-6c74-44df-84bb-610865cfffcc" />  Korea Suwon </br>
-<img height="50" src="https://github.com/jinhyungkim980/jinhyungkim980/assets/123533660/17c1bf69-54a9-4b6b-870b-e80171dc9317" />  국립한경대학교 2019.03~2024.12
+## 🏆 Awards
+- 한경국립대학교 SS전공 문제해결프로젝트 1위.
+
+## 🌱 Certificates
+- 정보처리기사
+- SQLD
+- 컴퓨터활용능력 2급
+- TOEIC Speaking
+</details>
 
 
 </br></br>
@@ -26,6 +30,9 @@
   <img alt="Mysql" src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql&logoColor=black" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-red?style=flat-square&logo=figma&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-45b8d8?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
   </p>
 
 </br></br>
@@ -55,5 +62,5 @@ Others       ██████░░░░░░░░░░░░░░░░�
 </br>
 <h2> Contact Me! 💌</h2>
 <a href="https://www.instagram.com/imk.h_/"><img src="https://img.shields.io/badge/Instagram-ff6964?style=plastic-square&logo=instagram&logoColor=pink"/>
-<a 
+<a href="https://imkchannel.vercel.app/">🫀</a>
 
