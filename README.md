@@ -9,8 +9,8 @@
 - 한경국립대학교 SS전공 문제해결프로젝트 1위.
 
 ## 🌱 Certificates
-- 정보처리기사
-- SQLD
+- 정보처리기사 (2024년 취득 예정)
+- SQLD (2024년 취득 예정)
 - 컴퓨터활용능력 2급
 - TOEIC Speaking
 </details>
