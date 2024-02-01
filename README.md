@@ -15,6 +15,9 @@
 - TOEIC Speaking
 </details>
 
+## 👨‍💻 Determination
+언제나 배움의 입장에서 한결같이 꾸준하게 노력하여 성장하는 개발자가 되고싶다.
+
 
 </br></br>
 
