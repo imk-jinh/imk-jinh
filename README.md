@@ -39,8 +39,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql&logoColor=black" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-red?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-CSS-45b8d8?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
+  <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-45b8d8?style=flat-square&logo=mariadb3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=flat&logo=aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
   </p>
