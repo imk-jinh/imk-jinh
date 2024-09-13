@@ -23,7 +23,7 @@
 
 🫀 **My project:**
 <!-- TODO-IST:START -->
-👍  개인 프로젝트: <a href="https://github.com/imk-jinh/CarPhoneNum_py"> OCR 차량번호 조회 시스템 </src> 개인 블로그         
+👍  개인 프로젝트: <a href="https://github.com/imk-jinh/CarPhoneNum_py"> OCR 차량번호 조회 시스템 </a> 개인 블로그         
 🤝  협업 프로젝트: RESGO(이미지 인식 기반 음식점 추천 프로젝트), 오늘. (AI 기반 일기장)                       
 ⏳  진행 중인 프로젝트: 내가 살고 싶은 도시(데이터 엔지니어링)
 <!-- TODO-IST:END -->
